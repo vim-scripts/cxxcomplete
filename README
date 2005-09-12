@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1347
+
+First, you'll need ruby support compiled in vim, and ruby bindings for gtk( ruby-gnome).
+
+What it can do?
+Scans your tags file, and pops up a list of possible completions.
+The completions refers to your variables, and member functions/variables.
+http://photos1.blogger.com/blogger/4648/1229/1600/screen11.jpg
+
+The script that scans the tags file is based on cppcomplete.
+
